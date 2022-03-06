@@ -1,0 +1,57 @@
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color: #dbddf1;
+    padding: 80px 0;
+}
+
+.gallery img{
+    background-color: #ffffff;
+    padding: 15px;
+    width:100%;
+    box-shadow: 0 0 15px rgb(0,0,0,0.3);
+    cursor: pointer;
+}
+.gallery-two{
+    background-color: #F1DBE8;
+    padding: 80px 0;
+}
+.gallery-two img{
+    background-color: #ffffff;
+    padding: 15px;
+    width:100%;
+    box-shadow: 0 0 15px rgb(0,0,0,0.3);
+    cursor: pointer;
+}
+
+.formbackg{
+    background-color: white;
+    padding: 80px 0;
+}
+
+.formcontact{
+    background-color:#DDF1DB;
+    padding: 80px 0;
+}
+
+#gallery-modal .modal-img{
+    width: 100%;
+
+}
+
+.btncarousel,.hover-carousel:hover{
+    color: black!important;
+    background-color: #BCA6E6!important;
+}
+
+.flavorname{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #6145B3;
+    font-size: 20px;
+}
+.decorationmane{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #C34891;
+    font-size: 20px;
+}
